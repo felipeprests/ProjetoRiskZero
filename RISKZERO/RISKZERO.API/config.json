@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "RiskzeroContext": "Server=.;Database=Riskzero; user id=sa; password=@Felipe94"
+  }
+}
